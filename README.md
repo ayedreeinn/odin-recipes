@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Recipes Project
+testing my html skills by building a simple recipe website
